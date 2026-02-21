@@ -7,6 +7,13 @@
 ![Unity](https://img.shields.io/badge/Engine-Unity-black)
 ![CSharp](https://img.shields.io/badge/Language-C%23-green)
 
+
+- 2D 캐릭터 이동 시스템
+- NPC 대화 시스템 (프리스크립트 기반)
+- 감정 선택지 기반 상호작용
+- 코인 수집 및 성장 구조
+- 목표 중심 진행 방식
+
 <br>
 
 ## 수상
@@ -40,15 +47,6 @@
 
 
 
-<br>
-
-## ✨ 키워드
-
-- 🧍‍♂️ 2D 캐릭터 이동 시스템
-- 💬 NPC 대화 시스템 (프리스크립트 기반)
-- 🧠 감정 선택지 기반 상호작용
-- 💰 코인 수집 및 성장 구조
-- 🎯 목표 중심 진행 방식
 
 <br>
 
