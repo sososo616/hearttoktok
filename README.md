@@ -70,6 +70,6 @@
 
 <br>
 
-## 🎬 Demo
+## 🎬 ppt
 
-![게임 시연](./demo.gif)
+![게임 시연](PPT.gif)
